@@ -1,3 +1,6 @@
-# vue-pgcqjp
+# first-vue-project
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/vue-pgcqjp)
+Created October 26, 2020
+
+- Nothing, special just add/delete/edit notes
+- No WEBAPI/Database was used 
